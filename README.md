@@ -13,7 +13,6 @@ I'm excited to share my new **Interactive Product Viewer** app, built using **Re
 - **Expand/Collapse Features:** Show or hide product features by clicking a button.
 - **Filter and Clear Favorites:** View only favorited products or remove all products from the favorite state with a single click.
 - **Dynamic Styling:** Products that are favorited are styled differently for better visibility.
-- **Responsive Design:** The app is designed to work on different screen sizes, making it accessible on any device.
 
 ### 💻 **Technologies:**
 
