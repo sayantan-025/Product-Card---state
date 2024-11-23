@@ -1,6 +1,6 @@
-# 💫 Interactive Product Viewer 💫
+<h1 align="center">💫 Interactive Product Viewer 💫</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/Created_By-Variable_Verse-blue"> <img src="https://img.shields.io/badge/Using-REACT + CSS-red"></p>
+<p align="center"><img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> <img src="https://img.shields.io/badge/Using-REACT + CSS-red"></p>
 
 🎉 **Just Launched My Latest Project!** 🎉
 
